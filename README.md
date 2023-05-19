@@ -22,7 +22,7 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/shivamkundan)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/shivamkundan)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/shivamkundan)
-[![Verilog](https://img.shields.io/badge/-Verilog-black?style=for-the-badge&logo=v)](https://github.com/shivamkundan)
+[![Verilog](https://img.shields.io/badge/-Verilog-black?style=for-the-badge&logo=v)](https://github.com/shivamkundan?tab=repositories&q=&type=&language=verilog&sort=)
 [![MIPS Assembly](https://img.shields.io/badge/-(MIPS)Assembly-black?style=for-the-badge)](https://github.com/shivamkundan)
 
 ### OS
