@@ -2,6 +2,11 @@
 
 I am a PhD candidate at Southern Illinois University, Carbondale.
 
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/shivamkundan)
+<!-- [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/shivamkundan) -->
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/shivamkundan)
+
 <!--
 **shivamkundan/shivamkundan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
