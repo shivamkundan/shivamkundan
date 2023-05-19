@@ -29,7 +29,7 @@
 [![MacOS](https://img.shields.io/badge/-MacOS-black?style=for-the-badge&logo=Apple)](https://github.com/shivamkundan)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/shivamkundan)
 
-<details>
+
 <p align="center">
   <a href="https://github.com/shivamkundan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkundan&theme=transparent" />
@@ -44,7 +44,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
+
 
 <p align="center">
   <a href="https://github.com/shivamkundan">
