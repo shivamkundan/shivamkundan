@@ -1,5 +1,5 @@
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to my page! 🖖</b><br><br>
     <i>
         I am a PhD student (now candidate) at Southern Illinois Univeristy, Carbondale <br>
         I study Electrical & Computer Engineering with a focus on embedded systems software <br>
