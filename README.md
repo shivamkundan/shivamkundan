@@ -10,7 +10,7 @@
     <a href="https://scholar.google.com/citations?user=tilQMOkAAAAJ&hl=en&oi=ao">
         <img src="https://img.shields.io/badge/Google Scholar-black?style=flat-square&logo=googlescholar" alt="Scholar">
     </a>
-    <a href="[https://leetcode.com/wervlad](https://www.youtube.com/channel/UC77wjK8oy5BrSmOc0qhYJ2g)">
+    <a href="https://www.youtube.com/channel/UC77wjK8oy5BrSmOc0qhYJ2g">
         <img src="https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube" alt="YouTube">
     </a>
 </p>
