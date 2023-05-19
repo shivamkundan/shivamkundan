@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/shivamkundan">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.scholar.google.com/shivamkundan">
+    <a href="https://scholar.google.com/citations?user=tilQMOkAAAAJ&hl=en&oi=ao">
         <img src="https://img.shields.io/badge/Google Scholar-black?style=flat-square&logo=googlescholar" alt="Scholar">
     </a>
     <a href="[https://leetcode.com/wervlad](https://www.youtube.com/channel/UC77wjK8oy5BrSmOc0qhYJ2g)">
