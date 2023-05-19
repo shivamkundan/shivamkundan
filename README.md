@@ -29,6 +29,28 @@
 [![MacOS](https://img.shields.io/badge/-MacOS-black?style=for-the-badge&logo=Apple)](https://github.com/shivamkundan)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/shivamkundan)
 
+<details>
+<p align="center">
+  <a href="https://github.com/shivamkundan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkundan&theme=transparent" />
+  </a>
+  <a href="https://github.com/shivamkundan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkundan&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/shivamkundan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamkundan&theme=transparent" />
+  </a>
+  <a href="https://github.com/shivamkundan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/shivamkundan">
+    <img src="https://komarev.com/ghpvc/?username=shivamkundan&color=blue&style=flat)" />
+  </a>
+</p>
 
 <!--
 **shivamkundan/shivamkundan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
