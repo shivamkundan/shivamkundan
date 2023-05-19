@@ -17,9 +17,9 @@
 
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/shivamkundan)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/shivamkundan)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/shivamkundan)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/shivamkundan?tab=repositories&q=&type=&language=python&sort=)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/shivamkundan?tab=repositories&q=&type=&language=c%2B%2B&sort=)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/shivamkundan?tab=repositories&q=&type=&language=c&sort=)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/shivamkundan)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/shivamkundan)
 [![Verilog](https://img.shields.io/badge/-Verilog-black?style=for-the-badge&logo=v)](https://github.com/shivamkundan?tab=repositories&q=&type=&language=verilog&sort=)
