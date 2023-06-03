@@ -25,7 +25,7 @@
 [![Verilog](https://img.shields.io/badge/-Verilog-black?style=for-the-badge&logo=v)](https://github.com/shivamkundan?tab=repositories&q=&type=&language=verilog&sort=)
 [![MIPS Assembly](https://img.shields.io/badge/-(MIPS)Assembly-black?style=for-the-badge)](https://github.com/shivamkundan)
 
-### OS
+### OSs
 [![MacOS](https://img.shields.io/badge/-MacOS-black?style=for-the-badge&logo=Apple)](https://github.com/shivamkundan)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/shivamkundan)
 
