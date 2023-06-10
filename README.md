@@ -40,20 +40,17 @@
   <a href="https://github.com/shivamkundan?tab=repositories">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamkundan&theme=transparent" />
   </a>
-  <a href="https://github.com/shivamkundan">
+<!--   <a href="https://github.com/shivamkundan">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&hide=javascript,html,css,&hide_border=true&theme=transparent" />
-  </a>
+  </a> -->
 </p>
 
 <!--  Old    -->
 <!--   <a href="https://github.com/shivamkundan">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,kvlang,javascript,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a> -->
-  
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&hide=javascript,html,css,&hide_border=true&theme=transparent)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&hide=javascript,html,css&hide_border=true&theme=transparent)
  
 <!--
 **shivamkundan/shivamkundan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
