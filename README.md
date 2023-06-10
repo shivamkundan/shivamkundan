@@ -46,6 +46,9 @@
 </p>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="center">
   <a href="https://github.com/shivamkundan">
     <img src="https://komarev.com/ghpvc/?username=shivamkundan&color=blue&style=flat)" />
