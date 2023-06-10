@@ -41,7 +41,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamkundan&theme=transparent" />
   </a>
   <a href="https://github.com/shivamkundan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&hide=javascript,html,langs_count=8&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&hide=javascript,html,css,&hide_border=true&theme=transparent" />
   </a>
 </p>
 
