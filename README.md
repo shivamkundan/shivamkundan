@@ -45,16 +45,24 @@
   </a>
 </p>
 
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan)](https://github.com/shivamkundan/github-readme-stats)
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&hide=javascript,html)
+
+<!-- 
 <p align="center">
   <a href="https://github.com/shivamkundan">
     <img src="https://komarev.com/ghpvc/?username=shivamkundan&color=blue&style=flat)" />
   </a>
 </p>
-
+ -->
+ 
+ 
 <!--
 **shivamkundan/shivamkundan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
