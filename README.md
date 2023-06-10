@@ -40,27 +40,20 @@
   <a href="https://github.com/shivamkundan?tab=repositories">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamkundan&theme=transparent" />
   </a>
-  <a href="https://github.com/shivamkundan">
+<!--   <a href="https://github.com/shivamkundan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&hide=javascript,html,langs_count=8&hide_border=true&theme=transparent" />
+  </a> -->
+    
+<!--  Old    -->
+<!--   <a href="https://github.com/shivamkundan">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,kvlang,javascript,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  </a> -->
+    
+  
 </p>
 
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan)](https://github.com/shivamkundan/github-readme-stats)
-</p>
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&hide=javascript,html)
-
-<!-- 
-<p align="center">
-  <a href="https://github.com/shivamkundan">
-    <img src="https://komarev.com/ghpvc/?username=shivamkundan&color=blue&style=flat)" />
-  </a>
-</p>
- -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkundan&hide=javascript,html,css,&hide_border=true&theme=transparent)
  
  
 <!--
